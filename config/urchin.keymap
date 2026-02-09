@@ -62,7 +62,7 @@
         //│    Z     │    X     │    C     │    V     │    B     │   │    N     │    M     │   , <    │   . >    │    /     │
              &kp Z      &kp X      &kp C      &kp V      &kp B          &kp N      &kp M      &kp COMMA  &kp DOT   &kp FSLH
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
-                                           &lt LEF TAB &lt LGUI CAPS &kp SPACE  &lt RIG BSPC
+                                           &lt LEF TAB &ht LGUI CAPS &kp SPACE  &lt RIG BSPC
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
             >;
         };
