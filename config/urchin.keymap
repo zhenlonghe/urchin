@@ -26,12 +26,11 @@
                 quick-tap-ms = <150>;
                 bindings = <&kp>, <&kp>;
         };
+        &soft_off {
+            /delete-property/ split-peripheral-off-on-press;
+            hold-time-ms = <2000>;
+        };
 	};
-
-    &soft_off {
-        /delete-property/ split-peripheral-off-on-press;
-        hold-time-ms = <2000>;
-    };
 
     conditional_layers {
         compatible = "zmk,conditional-layers";
