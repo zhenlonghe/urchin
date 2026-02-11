@@ -78,7 +78,7 @@
             &trans      &trans     &trans     &trans     &trans        &kp LARW   &kp DARW   &kp UARW   &kp RARW    &trans
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│          │          │          │          │          │   │          │          │          │          │          │
-            &trans      &trans     &trans     &trans     &trans        &trans     &trans     &trans     &trans     &trans
+            &trans      &trans     &trans     &trans   &bootloader    &bootloader  &trans     &trans     &trans     &trans
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                               &trans     &trans        &kp ESC    &trans
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
